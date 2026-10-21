@@ -86,6 +86,6 @@ $Tabulka = @($Vystup1, $Vystup2, $Vystup3)
 $Tabulka | Format-Table -AutoSize
 
 Write-Host -ForegroundColor Red "vtip : " -NoNewline
-Write-Host -ForegroundColor Cyan "Co kdyby byl Betelgeus ve tvaru valce ?"
+Write-Host -ForegroundColor Cyan "Co kdyby byl treba Betelgeus ve tvaru kuzele :)"
 
 sleep 60
